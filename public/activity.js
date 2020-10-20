@@ -1,4 +1,4 @@
-const postmonger = require("./postmonger");
+const Postmonger = require("postmonger");
 
 var connection = new Postmonger.Session();
 
