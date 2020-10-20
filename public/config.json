@@ -4,13 +4,7 @@
 		"icon": "icon.png",
 		"category": "message"
 	},
-	"type": "myActivityType",
-	"lang": {
-		"en-US": {
-			"name": "Custom Activity",
-			"description": "A custom Journey Builder activity "
-		}
-    },
+	"type": "REST",
     "userInterfaces": {
         "configInspector": {
             "size": "medium"
