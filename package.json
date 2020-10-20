@@ -4,6 +4,7 @@
   "description": "package",
   "main": "index.html",
   "scripts": {
+    "start": "node server.js",
     "test": "w"
   },
   "repository": {
