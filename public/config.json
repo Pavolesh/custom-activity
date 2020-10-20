@@ -1,0 +1,19 @@
+{
+	"workflowApiVersion": "1.1",
+	"metaData": {
+		"icon": "icon.png",
+		"category": "message"
+	},
+	"type": "myActivityType",
+	"lang": {
+		"en-US": {
+			"name": "Custom Activity",
+			"description": "A custom Journey Builder activity "
+		}
+    },
+    "userInterfaces": {
+        "configInspector": {
+            "size": "medium"
+        }
+    }
+}
