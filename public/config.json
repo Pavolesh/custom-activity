@@ -5,6 +5,12 @@
 		"category": "message"
 	},
 	"type": "REST",
+	"lang": {
+		"en-US": {
+			"name": "Custom Activity (Workflow API v1.1)",
+			"description": "A custom Journey Builder activity using workflow API v1.1 format."
+		}
+	},
     "userInterfaces": {
         "configInspector": {
             "size": "medium"
